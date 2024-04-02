@@ -1,5 +1,11 @@
 # README
 
+Ran the following commands 
+- git pull git@github.com:woximorks/article.git main --allow-unrelated-histories
+- bin/rails db:migrate
+
+
+
 Steps 1-7 completed - https://guides.rubyonrails.org/getting_started.html
 
 Continue Here - https://guides.rubyonrails.org/getting_started.html#adding-a-second-model
