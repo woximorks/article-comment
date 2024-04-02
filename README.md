@@ -8,7 +8,7 @@ This pulled the Article Repo, with Steps 1-7 completed - https://guides.rubyonra
 
 Started here - https://guides.rubyonrails.org/getting_started.html#adding-a-second-model
 
-Progress completed through - https://guides.rubyonrails.org/getting_started.html#refactoring
+Progress completed through section 10, start here - https://guides.rubyonrails.org/getting_started.html#security
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
