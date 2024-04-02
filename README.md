@@ -1,5 +1,9 @@
 # README
 
+Steps 1-7 completed - https://guides.rubyonrails.org/getting_started.html
+
+Continue Here - https://guides.rubyonrails.org/getting_started.html#adding-a-second-model
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
